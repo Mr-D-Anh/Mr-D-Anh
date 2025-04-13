@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-D-Anh
 - 👀 I’m interested in Stock
 - 🌱 I’m currently learning Python for analysis market
-- 💞️ I’m looking to collaborate on Data ânlysis
+- 💞️ I’m looking to collaborate on Data anlysis
 - 📫 How to reach me [Facebook](https://www.facebook.com/anh.smite)
 - 😄 Pronouns: Mr-Duc-Anh
 - ⚡ Fun fact: Lifelong learner
